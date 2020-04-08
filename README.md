@@ -21,6 +21,7 @@ All these parts can be readily found in most hobbist stores, such as Creatron. T
   - Connector for power source if needed. Having pre-installed lead wires makes things easier.
 - DC buzzer
 - Wire
+
 Tools:
 - Soldering iron
 - Solder wire
@@ -56,6 +57,7 @@ This will require more prep than the other route but can pay off if you are goin
 - Two 1kOhm resistors
 - 100nF capacitor (>=6V rating)
 - Circuit boards or protoboard
+
 Tools:
 - You ought to know
 - Breadboard (if using Arduino as ISP, see "Programming below")
