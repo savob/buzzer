@@ -60,9 +60,9 @@ This will require more prep than the other route but can pay off if you are goin
 
 Tools:
 - You ought to know
-- Breadboard (if using Arduino as ISP, see "Programming below")
-- Jumper wires (if using Arduino as ISP, see "Programming below")
-- Arduino (if using Arduino as ISP, see "Programming below")
+- Breadboard (if using Arduino as ISP, see [Programming](#programming))
+- Jumper wires (if using Arduino as ISP, see [Programming](#programming))
+- Arduino (if using Arduino as ISP, see [Programming](#programming))
 
 ### Preparing circuit boards (if desired)
 If you decide to have circuit boards made, there are EAGLE files prepared for you in the "buzzerPCB" folder. There are two versions, one that is more compact and makes use of surface mount parts which should be sent off to a professional PCB manufacturer to be made if desired. Due its size and shape it is easily panelized so you can easily get dozens of these made.
