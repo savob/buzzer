@@ -38,7 +38,7 @@ Tools:
 #### Programming and Deployment
 1. Connect your dev board to your computer
 2. Download and open the sketch, "buzz.ino", in the "buzz" folder in your IDE of choice (probably Arduino)
-3. Apply an adjustment you would like to the code
+3. Apply any adjustments you would like to the code
    - **Make sure you set the variable "buzzer" to the pin value you connected the buzzer to.** It is the first declaration in "buzz.ino".
 4. Upload the code to the dev board and see if it works
 5. Before deploying, disconnect the board from the computer and use your final power source until you are certain it will work.
