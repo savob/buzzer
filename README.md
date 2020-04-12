@@ -9,10 +9,10 @@ _Notes: The buzzer is meant to annoy for as long as possible without getting rem
 ### Approaches
 There are to ways to approach this prank, the easiest is using an Arduino or another similar development board. This will reduce the complexity and labour needed, but potentially increase cost.
 
-The other approach is making an embedded system. This will require more logistics to set up but will pay off when scaled up to more than a couple buzzers. This is based around programming a microcontroller directly; the provided designs use an ATtiny85 (should work for with a ATtiny13/25/45 as well) and making a circuit board or using a protoboard to connect other components.
+The other approach is making an embedded system. This will require more logistics to set up but will pay off when scaled up to more than a couple buzzers. This is based around programming a microcontroller directly; the provided designs use an ATtiny85 (should work for with an ATtiny13/25/45 as well) and making a circuit board or using a protoboard to connect other components.
 
 ### Easy route (Using an Arduino)
-So you've decided to take the easier route, no shame in that.
+So, you've decided to take the easier route, no shame in that.
 
 #### Bill of materials
 All these parts can be readily found in most hobbyist stores, such as Creatron. The tools can be borrowed from B&G.
